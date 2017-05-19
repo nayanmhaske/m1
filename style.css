@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo{
+	float:left;
+	background-color:#313332;
+	padding-left:20%;
+	margin-right:5%;
+}
+.ribbon{
+	background-color: #313332;
+	height:100px;
+	width:100%;
+	
+	}
+.menu{
+	padding-top:2%;
+}
+.menu ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #313332;
+		font-size:18px;
+		font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif
+	}
+	
+.menu ul li {
+		float: left;
+		list-style-type:none;
+		}
+	
+.menu ul li a {
+		display: block;
+		color: #F05A28;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+	
+.menu ul li a:hover {
+		background-color: #F0F0F0;
+	}
+
+.focus{
+	/*width:100%;*/
+	padding-left:19%;
+	padding-top:3%;
+}
+.support{
+	width:30%;
+	float:left;
+	margin-right:5%;
+}
+
+.localTeachers{
+	width:30%;
+	float:left;
+	margin-right:5%;
+}
+.MusicTeachers{
+	width:30%;
+	float:left;
+}
+.ourBands{
+	width:100%;
+	float:left;
+
+}
+.ourBands p{
+	/*margin-left:50%;*/
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:25px;
+	font-weight:bold;
+	text-align:center;
+}
+.bandImages{
+	width:60%;
+	margin:0px auto;;	
+	}
+.qldGovLogo{
+	clear:both;
+	/*float:left;*/
+	width:300px;
+	margin:0px auto;
+}
+.footer{
+	width:100%;
+	background-color:#313332;
+	height:auto;
+	float:left;
+	padding-left:10px;
+}
+.footer strong{
+	font-size:18px;
+	}
+.footerAbout{
+	color:white;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	width:20%;
+	float:left;
+	margin-left:22%;
+}
+
+.footerContact{
+	color:white;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	width:20%; 
+	float:left;
+	margin:0px 3% 0px 3%;
+}
+.footerSocial{
+	color:white;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	width:20%;
+	float:left;
+}
